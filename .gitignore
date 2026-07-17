@@ -1,0 +1,9 @@
+# Dependencies (installed with `npm install` — never commit these)
+node_modules/
+
+# npm debug logs
+npm-debug.log*
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
