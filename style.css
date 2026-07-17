@@ -5,7 +5,7 @@ body {
   align-items: center;
   justify-content: center;
   font-family: system-ui, sans-serif;
-  background: linear-gradient(135deg, #6366f1, #8b5cf6);
+  background: #add8e6;
 }
 
 .card {

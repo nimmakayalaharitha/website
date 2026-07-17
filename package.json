@@ -1,0 +1,21 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "My first website project (HTML, CSS, JavaScript)",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server",
+    "dev": "live-server"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript",
+    "website"
+  ],
+  "author": "Haritha Nimmakayala",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
